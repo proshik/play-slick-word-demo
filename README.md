@@ -1,5 +1,5 @@
-The demo project by translate words from the yandex dictionary
-==============================================================
+The demo project by translate words from the yandex dictionary API
+==================================================================
 
 **Usage:**
 
